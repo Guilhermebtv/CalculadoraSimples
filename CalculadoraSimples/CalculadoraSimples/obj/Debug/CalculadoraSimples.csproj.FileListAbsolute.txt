@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Users\usuario\Desktop\ESTUDOS\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
